@@ -1,0 +1,1 @@
+java  -javaagent:./target/javassist-1.0-SNAPSHOT-jar-with-dependencies.jar com.javapapers.java.instrumentation.TestInstrumentation
